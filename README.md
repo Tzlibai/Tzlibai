@@ -1,8 +1,8 @@
 ### Hi there，I'm Zhc 👋
 ---
-|  个人网站   | 掘金  |博客园 |
+|  个人网站   | 掘金  | CSDN |
 |  ----  | ----  | --- |
-| [✈️点我直达](https://www.zhaohongcheng.com) | [✈️点我直达](https://juejin.im/user/3843548384069741)|[✈️点我直达](https://www.cnblogs.com/zhaohongcheng/)|
+| [✈️点我直达](https://www.zhaohongcheng.com) | [✈️点我直达](https://juejin.im/user/3843548384069741)|[✈️点我直达](https://blog.csdn.net/qq_33929420?spm=1010.2135.3001.5343)|
 
 
 ### 🌈 My Github State
